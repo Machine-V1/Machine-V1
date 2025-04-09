@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Machine-V1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👾 Sobre Mim
 
-<!---
-Machine-V1/Machine-V1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    🛠️ Entusiasta de tecnologias emergentes e pesquisa científica​
+
+    💡 Focado em inovação e exploração de novos paradigmas​
+
+    🚀 Sempre em busca de desafios complexos e aprendizado contínuo​
+
+🎯 Áreas de Interesse
+
+✅ Robótica
+✅ Computação Neuromórfica
+✅ Computação Quântica
+✅ Ciência de dados
